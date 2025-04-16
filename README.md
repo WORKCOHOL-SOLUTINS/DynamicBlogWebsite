@@ -1,5 +1,5 @@
 **Dynamic Blog Website**
-Dynamic Blog Website is a fully functional and customizable blog platform that allows users to create, manage, and share blog posts dynamically. The project is designed for developers and end-users who want to host their own blogging platform with modern web technologies.
+is a fully functional and customizable blog platform that allows users to create, manage, and share blog posts dynamically. The project is designed for developers and end-users who want to host their own blogging platform with modern web technologies.
 
 Features
 🔐 User Authentication: Registration, login/logout, password recovery, and role-based access.
